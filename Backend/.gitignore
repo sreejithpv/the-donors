@@ -1,6 +1,7 @@
 /node_modules/
 yarn.lock
 build
+lib
 .DS_Store
 yarn-error.log
 package-lock.json
