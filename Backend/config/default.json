@@ -1,0 +1,13 @@
+{
+    "db": "mongodb://sree:sree123@ds125862.mlab.com:25862/donors",
+    "jwtPrivateKey": "jwtPrivateKey",
+    "mailServer": {
+        "host": "-HOST-",
+        "auth": {
+            "user": "hi",
+            "pass": "hello"
+        },
+        "from": "-FROM-EMAIL-",
+        "subject": "Password Reset"
+    }
+}
